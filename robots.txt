@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://e-journal.uingusdur.ac.id/locale/sitemap.xml
+Sitemap: https://e-journal.uingusdur.ac.id/kat/sitemap.xml
